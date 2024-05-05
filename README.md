@@ -13,3 +13,6 @@
 2. After you click on it you should see this page<p><img src="https://i.ibb.co/Ksyc2hk/Screenshot-2024-05-04-120650.png"></p>
 3. Copy the code after ``"authorizationCode":``
 4. Enter the code in ``run.bat`` after it prompts the question ``Please enter an authorization code: ``
+---
+# Etxra
+Want to add more stuff? Check out the [docs](https://fnbr.js.org/#/)
