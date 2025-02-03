@@ -87,5 +87,5 @@ const getCosmeticPath = (path) => path
     client.on('friend:message', handleCommand);
   
     await client.login();
-    console.log(`Logged in as ${client.user.self.displayName}`);
+    console.log(`Bot is Online!`);
   })();
