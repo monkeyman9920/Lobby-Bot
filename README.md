@@ -11,7 +11,7 @@
 # Setting up the bot account
 1. You need to get the [auth code](https://www.epicgames.com/id/logout?redirectUrl=https%3A//www.epicgames.com/id/login%3FredirectUrl%3Dhttps%253A%252F%252Fwww.epicgames.com%252Fid%252Fapi%252Fredirect%253FclientId%253D3f69e56c7649492c8cc29f1af08a8a12%2526responseType%253Dcode) of the Alt account
 2. Log into the Alt account
-3. After you login you should a page like this<p><img src="https://i.ibb.co/Ksyc2hk/Screenshot-2024-05-04-120650.png"></p>
+3. After you login you should a page like this<p><img src="https://i.ibb.co/Ndn5FX9P/68747470733a2f2f692e6962622e636f2f4b73796332686b2f53637265656e73686f742d323032342d30352d30342d313230.png"></p>
 4. Copy the code after ``"authorizationCode":``
 5. Enter the code in ``run.bat`` after it prompts ``Please enter an authorization code: ``
 ---
