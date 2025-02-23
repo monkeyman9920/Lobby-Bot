@@ -14,6 +14,8 @@
 3. After you login you should a page like this<p><img src="https://i.ibb.co/Ndn5FX9P/68747470733a2f2f692e6962622e636f2f4b73796332686b2f53637265656e73686f742d323032342d30352d30342d313230.png"></p>
 4. Copy the code after ``"authorizationCode":``
 5. Enter the code in ``run.bat`` after it prompts ``Please enter an authorization code: ``
+[![Run on Replit](https://replit.com/badge/github/monkeyman9920/Lobby-Bot)](https://replit.com/github/USERNAME/REPO_NAME)
+
 ---
 # Etxra
 Want to add more stuff? Check out the [docs](https://fnbr.js.org/#/)
